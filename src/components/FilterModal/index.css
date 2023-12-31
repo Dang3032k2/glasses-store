@@ -1,0 +1,10 @@
+select {
+    background-image: url('../../../public/icons/dropdown.svg');
+    /* Đường dẫn đến hình ảnh icon của bạn */
+    background-size: 20px 20px;
+    /* Kích thước của icon */
+    background-repeat: no-repeat;
+    background-position: 95%;
+    /* Vị trí icon */
+    cursor: pointer;
+}
